@@ -8,14 +8,14 @@
     }
   }
   .project-text {
-    padding: 3rem;
+    padding: 4rem;
     font-size: 90%;
     @media (min-width: 992px) {
       padding: 5rem;
       hr {
         border-color: $primary;
         border-width: .25rem;
-        width: 30%;
+        width: 30%;    
       }
     }
   }
