@@ -28,7 +28,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.3.1",
         "bootstrap": "4.3.1",
-        "jquery": "^1.9.1",
+        "jquery": "^3.0.0",
         "jquery.easing": "^1.4.1",
         "node-gyp": "^3.8.0",
         "nodejs": "0.0.0",
@@ -37,7 +37,7 @@
     "devDependencies": {
         "browser-sync": "^2.26.3",
         "browserify": "^16.2.3",
-        "gulp": "^3.9.1",
+        "gulp": "^4.0.0",
         "gulp-autoprefixer": "6.0.0",
         "gulp-clean-css": "3.10.0",
         "gulp-header": "2.0.5",
