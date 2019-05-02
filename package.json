@@ -30,14 +30,14 @@
         "bootstrap": "4.3.1",
         "jquery": "^3.4.0",
         "jquery.easing": "^1.4.1",
-        "node-gyp": "^3.8.0",
+        "node-gyp": "^4.0.0",
         "nodejs": "0.0.0",
         "package-name": "^0.1.0"
     },
     "devDependencies": {
         "browser-sync": "^2.26.5",
         "browserify": "^16.2.3",
-        "gulp": "^4.0.0",
+        "gulp": "^4.0.1",
         "gulp-autoprefixer": "6.0.0",
         "gulp-clean-css": "3.10.0",
         "gulp-header": "2.0.5",
